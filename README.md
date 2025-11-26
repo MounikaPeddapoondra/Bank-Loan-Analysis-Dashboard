@@ -35,3 +35,13 @@ The objective of this project is to analyze bank loan data to uncover meaningful
   ## Dashboard
 
   https://1drv.ms/i/c/f8cbd4defa45f578/ESh-f7_Jyn9MsMK2JYtbQ-4BHcapXj4F3_0Wqw2GWtTtCw?e=aueob6
+
+## Project Insights
+-Fully Paid loans contribute the highest share in total payments.
+-Loan amounts increased significantly between 2009–2011.
+-Verified customers show better repayment performance.
+-Higher credit grades have higher revolving balance values.
+-Some states show more Charged-Off loans, indicating risk.
+
+## Final Conclusion
+This project helps banks understand loan behavior, manage risks, and make better financial decisions. It provides a clear view of how loans are performing across different years, states, verification types, and credit grades.
