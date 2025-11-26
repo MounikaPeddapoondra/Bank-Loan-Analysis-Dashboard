@@ -6,3 +6,12 @@ The objective of this project is to analyze bank loan data to uncover meaningful
 - <a href="https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/Finance1td.csv">Dataset</a>
 - <a href="https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/Finance2td.csv">Dataset</a>
 
+## Questions(KPI'S)
+- Year-wise loan amount distribution
+- Grade and Sub-grade wise revolving balance comparison
+- Verification status impact on total payments
+- Home ownership vs last payment trends
+- State and month-wise loan status analysis
+- Interactive dashboards for business stakeholders
+
+- Dashboard Interaction <a href="https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/BANK%20LOAN%20PBI.jpg">view Dashboard</a>
