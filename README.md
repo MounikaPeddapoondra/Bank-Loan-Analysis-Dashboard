@@ -19,4 +19,5 @@ The objective of this project is to analyze bank loan data to uncover meaningful
  - EXCEL <a href="https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/BANK%20LOAN%20EXCEL.jpg">View Dashboard</a>
  - Tableau <a href="https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/bank%20loan%20tableau.jpg">View Dashboard</a>
  - SQL <a href="https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/BANK%20LOAN%20PROJ%20SQL.sql">View code</a>
+ - python <a href="https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/Bank%20Loan%20Analysis%20project%20python.pdf">View Code</a>
  
