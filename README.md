@@ -33,4 +33,5 @@ The objective of this project is to analyze bank loan data to uncover meaningful
 - Generated insights related to repayment trends, credit grades, and risk patterns.
 
   ## Dashboard
-(https://1drv.ms/i/c/f8cbd4defa45f578/ESh-f7_Jyn9MsMK2JYtbQ-4BHcapXj4F3_0Wqw2GWtTtCw?e=xkh1gn)
+  
+ ![Screenshot](https://1drv.ms/i/c/f8cbd4defa45f578/ESh-f7_Jyn9MsMK2JYtbQ-4BHcapXj4F3_0Wqw2GWtTtCw?e=xkh1gn)
