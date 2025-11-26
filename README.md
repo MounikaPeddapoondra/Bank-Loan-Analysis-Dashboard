@@ -14,4 +14,6 @@ The objective of this project is to analyze bank loan data to uncover meaningful
 - State and month-wise loan status analysis
 - Interactive dashboards for business stakeholders
 
-- Dashboard Interaction <a href="https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/BANK%20LOAN%20PBI.jpg">View Dashboard</a>
+- Dashboard Interaction
+- Power BI <a href="https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/BANK%20LOAN%20PBI.jpg">View Dashboard</a>
+-
