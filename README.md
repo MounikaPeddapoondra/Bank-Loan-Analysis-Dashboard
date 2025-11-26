@@ -17,3 +17,4 @@ The objective of this project is to analyze bank loan data to uncover meaningful
 - Dashboard Interaction
  - Power BI <a href="https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/BANK%20LOAN%20PBI.jpg">View Dashboard</a>
  - EXCEL <a href="https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/BANK%20LOAN%20EXCEL.jpg">View Dashboard</a>
+ - Tableau <a href="https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/bank%20loan%20tableau.jpg">View Dashboard</a>
