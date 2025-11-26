@@ -34,4 +34,4 @@ The objective of this project is to analyze bank loan data to uncover meaningful
 
   ## Dashboard
 
-  (https://1drv.ms/f/c/f8cbd4defa45f578/Es2E6qABIg9FlnLa-EvVwFkBb3ENVIpDIgt-njreG7PSgg?e=IqiMj0)
+  (https://1drv.ms/i/c/f8cbd4defa45f578/ESh-f7_Jyn9MsMK2JYtbQ-4BHcapXj4F3_0Wqw2GWtTtCw?e=aueob6)
