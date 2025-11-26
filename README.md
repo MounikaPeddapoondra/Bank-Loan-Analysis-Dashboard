@@ -20,4 +20,17 @@ The objective of this project is to analyze bank loan data to uncover meaningful
  - Tableau <a href="https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/bank%20loan%20tableau.jpg">View Dashboard</a>
  - SQL <a href="https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/BANK%20LOAN%20PROJ%20SQL.sql">View code</a>
  - python <a href="https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/Bank%20Loan%20Analysis%20project%20python.pdf">View Code</a>
- 
+
+## Project Process 
+- Understood the business requirement to analyze loan performance and risk.
+- Collected and explored loan datasets containing customer and payment details.
+- Cleaned and prepared the data using SQL and Python (handled nulls, duplicates, format issues).
+- Joined tables using a common key and extracted additional fields like year and month.
+- Performed exploratory data analysis to understand trends and relationships.
+- Identified key KPIs such as total loan amount, total payment, loan status, verification status, and grade performance.
+- Loaded the processed data into Power BI and Tableau for visualization.
+- Built interactive dashboards using bar charts, donut charts, tables, and slicers.
+- Generated insights related to repayment trends, credit grades, and risk patterns.
+
+  ## Dashboard
+  https://1drv.ms/i/c/f8cbd4defa45f578/ESh-f7_Jyn9MsMK2JYtbQ-4BHcapXj4F3_0Wqw2GWtTtCw?e=Qdkmk6
