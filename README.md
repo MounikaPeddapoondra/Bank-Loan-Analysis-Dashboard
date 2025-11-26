@@ -34,7 +34,7 @@ The objective of this project is to analyze bank loan data to uncover meaningful
 
 ## Dashboard
 
-[Dashboard Screenshot](https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/BANK%20LOAN%20PBI.jpg?raw=true)
+![Dashboard Screenshot](https://github.com/MounikaPeddapoondra/Bank-Loan-Analysis-Dashboard/blob/main/BANK%20LOAN%20PBI.jpg?raw=true)
 
 
 ## Project Insights
